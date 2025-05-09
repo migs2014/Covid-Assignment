@@ -1,8 +1,4 @@
 # Covid-Assignment
-Here’s a more detailed and comprehensive **README** for your **COVID-19 Data Analysis & Visualization Project**:
-
----
-
 # **COVID-19 Data Analysis & Visualization**
 ## **Project Description**
 The COVID-19 pandemic has significantly impacted global health, economies, and daily life. This project analyzes COVID-19 trends using `"owid-covid-data.csv"`, providing insights into cases, deaths, and vaccination rollouts across different countries. Using data visualization techniques, we identify patterns, anomalies, and key takeaways that can inform public health decisions and future pandemic preparedness.
